@@ -65,11 +65,18 @@ This portfolio was created to:
 
 ---
 
+<!--
 ## 📸 Preview
 
 <p align="center">
   <img src="./images/preview-1.png" width="100%" alt="Hero Section"/><br><br><br>
   <img src="./images/preview-2.png" width="100%" alt="Website Sections"/>
+</p> -->
+
+## 🎥 Live Preview
+
+<p align="center">
+  <img src="./images/OSW_1-demo.gif" width="100%" alt="Portfolio Demo"/>
 </p>
 
 ---
