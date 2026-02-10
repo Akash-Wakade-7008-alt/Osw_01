@@ -1,5 +1,16 @@
 body {
-  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
 }
 
 header {
@@ -14,11 +25,9 @@ nav {
   display: flex;
   gap: 80px;
   margin-left: 220px;
- align-items: center;
+  align-items: center;
   font-size: 18px;
   font-weight: bold;
-
-
 }
 
 #header-button {
@@ -36,7 +45,7 @@ nav {
 }
 
 #header-button:hover {
- scale: 1.05;
+  scale: 1.05;
   background-color: rgb(26, 26, 175);
 }
 
@@ -96,7 +105,7 @@ nav {
 }
 
 .icon {
-  height:50px;
+  height: 50px;
   width: 50px;
 }
 
@@ -108,48 +117,43 @@ nav {
   margin-bottom: 50px;
 }
 
-
-footer{
+footer {
   display: flex;
   gap: 50px;
   margin-left: 70px;
-margin-top: 150px;
+  margin-top: 150px;
 }
-footer a{
+footer a {
   text-decoration: none;
-
-
 }
 
-.icon2{
-  height:30px;
+.icon2 {
+  height: 30px;
   width: 30px;
 }
 
-.icon2:hover{
+.icon2:hover {
   scale: 1.2;
   cursor: pointer;
 }
 
-
-pre{
+pre {
   color: rgb(137, 161, 182);
   font-size: large;
 }
 
-.para{
+.para {
   color: rgb(137, 161, 182);
   width: 300px;
-  display:inline;
+  display: inline;
   inline-height: 2;
 }
-.Akash:hover{
+.Akash:hover {
   cursor: pointer;
   scale: 1.08;
 }
 
-.section-2-div{
+.section-2-div {
   width: 400px;
   line-height: 25px;
-
 }
