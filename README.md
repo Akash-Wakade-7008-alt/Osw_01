@@ -26,22 +26,7 @@ This project showcases my skills, services, and projects in a clean and visually
 - **Flexbox / Modern CSS** — Responsive design
 
 ---
-<!-- 
-## 📂 Project Structure
 
-osw_01/<br>
-│<br>
-├── index.html<br>
-├── style.css<br>
-└── images/<br>
-├──email icon.png<br>
-├── Github icon.png<br>
-├── Linkden icon.png<br>
-├── Image 1.png<br>
-├── Image 2.png<br>
-├── Image 3.png<br>
-├── preview 1.png<br>
-└── preview 2.png<br> -->
 ## 📂 Project Structure
 
 ```
