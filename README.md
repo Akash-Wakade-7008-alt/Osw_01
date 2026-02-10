@@ -1,20 +1,30 @@
-<h1 align="center">🌐 OSW_01 — Personal Portfolio</h1>
+
+
+<h1 align="center">
+  🌐 OSW_01 — Personal Portfolio
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=Modern+Portfolio+Website;Responsive+%26+Clean+UI;Built+With+HTML+%26+CSS;Designed+To+Impress+Recruiters" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3200&color=00F7FF&center=true&vCenter=true&width=750&lines=Modern+Developer+Portfolio;Clean+UI+%7C+Responsive+Design;Built+With+HTML5+%26+CSS3;Designed+To+Impress+Recruiters;Future+Full+Stack+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Made%20With-HTML5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/Styled%20With-CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Beginner-Friendly-purple?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Akash-Wakade-7008-alt&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/stars/Akash-Wakade-7008-alt/Osw_01?style=flat" />
+  <img src="https://img.shields.io/github/forks/Akash-Wakade-7008-alt/Osw_01?style=flat" />
+  <img src="https://img.shields.io/github/repo-size/Akash-Wakade-7008-alt/Osw_01?style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-LIVE-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive-100%25-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Clean-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-Modern-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🎥 Portfolio Demo
+# 🎥 Live Portfolio Demo
 
 <p align="center">
   <img src="./images/OSW_1-demo.gif" width="100%" alt="Portfolio Demo"/>
@@ -22,56 +32,63 @@
 
 ---
 
-## 🚀 Live Website
+# 🚀 Live Website
 
-👉 **Explore the Portfolio Here:**  
-🔗 **https://osw-01-62rm.vercel.app/**
+### 👉 **https://osw-01-62rm.vercel.app/**
 
-> 💡 _A portfolio is more than a website — it's your digital identity._
-
----
-
-## 🧠 Project Overview
-
-**OSW_01** is a modern, responsive personal portfolio crafted to showcase skills, projects, and services with clarity and style.
-
-Built with a strong focus on **performance, simplicity, and user experience**, this project reflects my dedication to writing clean code and designing intuitive interfaces.
-
-✨ Perfect for creating a powerful first impression on recruiters and collaborators.
+> 💡 **Your portfolio is not just a website — it's your digital personality.**
 
 ---
 
-## ✨ Highlight Features
+# 🧠 About The Project
 
-🚀 Fully responsive across all screen sizes  
-🎨 Clean, modern, and professional interface  
-⚡ Fast-loading and lightweight structure  
-🧭 Smooth navigation with structured sections  
-🧩 Services section (Web Dev, UI/UX, Backend)  
+**OSW_01** is a modern developer portfolio engineered to deliver a strong first impression.
+
+It emphasizes:
+
+✔️ clarity  
+✔️ performance  
+✔️ responsiveness  
+✔️ professional UI  
+✔️ structured design  
+
+Built with simplicity in mind — but styled to look production-ready.
+
+This project reflects my mindset as a developer:
+
+> **"Write clean code. Build meaningful experiences."**
+
+---
+
+# ✨ Core Features
+
+🚀 Fully responsive design across devices  
+🎨 Minimal, modern, recruiter-friendly UI  
+⚡ Lightweight and fast-loading  
+🧭 Smooth section flow  
+🧩 Services architecture  
 📂 Project showcase  
-🌐 Social media integration  
-🛠️ Built using modern layout practices
+🌐 Social integration  
+🔧 Built using modern CSS practices  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github&perline=8" />
 </p>
 
-| Technology     | Role               |
-| -------------- | ------------------ |
-| **HTML5**      | Semantic structure |
-| **CSS3**       | Styling & layout   |
-| **Flexbox**    | Responsive design  |
-| **Modern CSS** | Enhanced UI        |
+| Technology | Purpose |
+|------------|------------|
+| **HTML5** | Semantic, accessible structure |
+| **CSS3** | Styling and layout |
+| **Flexbox** | Responsive architecture |
+| **Modern CSS** | Professional UI |
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 osw_01/
@@ -92,15 +109,15 @@ osw_01/
 
 ---
 
-## 🎯 Purpose of This Project
+# 🎯 Why I Built This
 
-This portfolio was created to:
+This project was created to push beyond tutorials and step into **real-world development**.
 
-✅ Apply real-world development concepts  
-✅ Strengthen core HTML & CSS skills  
-✅ Master layout design techniques  
-✅ Build a strong developer presence  
-✅ Showcase projects professionally
+✅ Strengthen core fundamentals  
+✅ Master layout systems  
+✅ Build a professional presence  
+✅ Showcase work effectively  
+✅ Think like a production developer  
 
 ---
 
@@ -114,61 +131,55 @@ This portfolio was created to:
 
 ---
 
-## ⚡ Run Locally
-
-Clone the repository:
+# ⚡ Run Locally
 
 ```bash
 git clone https://github.com/Akash-Wakade-7008-alt/Osw_01.git
-```
-
-Navigate into the folder:
-
-```bash
 cd Osw_01
 ```
 
-Open **index.html** — and you're ready to go ✅
+Open **index.html** and you're ready 🚀
 
 ---
 
-## 🔥 Future Enhancements
+# 🔥 Future Evolution
 
-🌙 Dark mode support  
+🌙 Dark mode  
 🎬 Advanced animations  
-⚙️ JavaScript-powered interactivity  
-📈 Performance optimization  
+⚙️ JavaScript interactivity  
+📈 Performance tuning  
 ♿ Accessibility improvements  
-📦 Expanded project section
+🧠 Smarter UX  
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-### **Akash Wakade**
+## **Akash Wakade**
 
-💡 Passionate about building responsive websites, clean UI, and real-world web projects.
+Aspiring engineer passionate about building modern web experiences and continuously leveling up.
 
-> ⭐ If you like this project, consider giving it a star — it truly supports my journey!
+> ⭐ If this project impressed you, consider starring the repo — it genuinely supports my growth.
 
 ---
 
-## 📬 Connect With Me
+# 📬 Let's Connect
 
 🔗 **GitHub**  
-https://github.com/Akash-Wakade-7008-alt
+https://github.com/Akash-Wakade-7008-alt  
 
 🔗 **LinkedIn**  
-https://www.linkedin.com/in/akash-wakade-08b8412b2/
+https://www.linkedin.com/in/akash-wakade-08b8412b2/  
 
 📧 **Email**  
-akashwakade7355@gmail.com
+akashwakade7355@gmail.com  
 
 ---
 
 <p align="center">
-  ⭐ <strong>"First impressions matter — your portfolio is your digital handshake."</strong>
+  ⭐ <strong>"Great developers are not born — they build, iterate, and improve every day."</strong>
 </p>
+
 
 <!--
 ## 🎥 Live Preview
