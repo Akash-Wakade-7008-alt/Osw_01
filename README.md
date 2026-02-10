@@ -1,6 +1,3 @@
-<!-- Vercel link
-https://osw-01-nine.vercel.app/ -->
-
 # 🌐 OSW_01 — Personal Portfolio Website
 
 A modern and responsive **Personal Portfolio Website** built using **HTML and CSS**.  
