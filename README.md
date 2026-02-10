@@ -29,7 +29,6 @@ This project showcases my skills, services, and projects in a clean and visually
 
 ## 📂 Project Structure
 
-```
 osw_01/
 │
 ├── index.html
@@ -42,8 +41,8 @@ osw_01/
 │   ├── Image 2.png
 │   ├── Image 3.png
 │   ├── preview 1.png
-│   └── preview 2.png
-```
+│   ├── preview 2.png
+│   └── OSW_1-demo.gif
 
 ---
 
