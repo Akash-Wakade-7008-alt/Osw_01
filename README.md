@@ -34,8 +34,8 @@ This project showcases my skills, services, and projects in a clean and visually
 
 osw_01/
 │
-├── index.html<br>
-├── style.css<br>
+├── index.html<br><br>
+├── style.css<br><br>
 └── images/<br>
 ├── email icon.png<br>
 ├── Github icon.png<br>
@@ -62,8 +62,8 @@ This portfolio was created to:
 ## 📸 Preview
 
 <p align="center">
-  <img src="./images/preview-1.png" width="60%" alt="Hero Section"/><br>
-  <img src="./images/preview-2.png" width="58%" alt="Website Sections"/>
+  <img src="./images/preview-1.png" width="100%" alt="Hero Section"/><br><br><br>
+  <img src="./images/preview-2.png" width="100%" alt="Website Sections"/>
 </p>
 
 ---
