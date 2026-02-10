@@ -110,5 +110,5 @@ If you like this project, consider giving it a ⭐ on GitHub!
 ## 📬 Connect With Me
 
 - GitHub : https://github.com/Akash-Wakade-7008-alt
-- LinkedIn :in/akash-wakade-08b8412b2
+- LinkedIn :[in/akash-wakade-08b8412b2](https://www.linkedin.com/in/akash-wakade-08b8412b2/)
 - Email : akashwakade7355@gmail.com
