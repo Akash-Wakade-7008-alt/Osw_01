@@ -34,8 +34,8 @@ This project showcases my skills, services, and projects in a clean and visually
 
 osw_01/<br>
 │<br>
-├── index.html<br><br>
-├── style.css<br><br>
+├── index.html<br>
+├── style.css<br>
 └── images/<br>
 ├── email icon.png<br>
 ├── Github icon.png<br>
@@ -59,6 +59,13 @@ This portfolio was created to:
 
 ---
 
+## 🌍 Live Demo
+
+🚀 **Visit Here:**  
+👉 https://osw-01-62rm.vercel.app/
+
+---
+
 ## 📸 Preview
 
 <p align="center">
@@ -72,7 +79,7 @@ This portfolio was created to:
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/osw_01.git
+git clone https://github.com/Akash-Wakade-7008-alt/Osw_01.git
 
 2. Open the folder.
 
