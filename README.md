@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   🌐 OSW_01 — Personal Portfolio
 </h1>
@@ -24,10 +22,11 @@
 
 ---
 
-# 🎥 Live Portfolio Demo
+## 📸 Preview
 
 <p align="center">
-  <img src="./images/OSW_1-demo.gif" width="100%" alt="Portfolio Demo"/>
+  <img src="./images/preview-1.png" width="100%" alt="Hero Section"/><br><br><br>
+  <img src="./images/preview-2.png" width="100%" alt="Website Sections"/>
 </p>
 
 ---
@@ -35,8 +34,6 @@
 # 🚀 Live Website
 
 ### 👉 **https://osw-01-62rm.vercel.app/**
-
-> 💡 **Your portfolio is not just a website — it's your digital personality.**
 
 ---
 
@@ -50,7 +47,7 @@ It emphasizes:
 ✔️ performance  
 ✔️ responsiveness  
 ✔️ professional UI  
-✔️ structured design  
+✔️ structured design
 
 Built with simplicity in mind — but styled to look production-ready.
 
@@ -69,7 +66,7 @@ This project reflects my mindset as a developer:
 🧩 Services architecture  
 📂 Project showcase  
 🌐 Social integration  
-🔧 Built using modern CSS practices  
+🔧 Built using modern CSS practices
 
 ---
 
@@ -79,12 +76,12 @@ This project reflects my mindset as a developer:
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github&perline=8" />
 </p>
 
-| Technology | Purpose |
-|------------|------------|
-| **HTML5** | Semantic, accessible structure |
-| **CSS3** | Styling and layout |
-| **Flexbox** | Responsive architecture |
-| **Modern CSS** | Professional UI |
+| Technology     | Purpose                        |
+| -------------- | ------------------------------ |
+| **HTML5**      | Semantic, accessible structure |
+| **CSS3**       | Styling and layout             |
+| **Flexbox**    | Responsive architecture        |
+| **Modern CSS** | Professional UI                |
 
 ---
 
@@ -117,17 +114,7 @@ This project was created to push beyond tutorials and step into **real-world dev
 ✅ Master layout systems  
 ✅ Build a professional presence  
 ✅ Showcase work effectively  
-✅ Think like a production developer  
-
----
-
-<!--
-## 📸 Preview
-
-<p align="center">
-  <img src="./images/preview-1.png" width="100%" alt="Hero Section"/><br><br><br>
-  <img src="./images/preview-2.png" width="100%" alt="Website Sections"/>
-</p> -->
+✅ Think like a production developer
 
 ---
 
@@ -149,7 +136,7 @@ Open **index.html** and you're ready 🚀
 ⚙️ JavaScript interactivity  
 📈 Performance tuning  
 ♿ Accessibility improvements  
-🧠 Smarter UX  
+🧠 Smarter UX
 
 ---
 
@@ -166,13 +153,13 @@ Aspiring engineer passionate about building modern web experiences and continuou
 # 📬 Let's Connect
 
 🔗 **GitHub**  
-https://github.com/Akash-Wakade-7008-alt  
+https://github.com/Akash-Wakade-7008-alt
 
 🔗 **LinkedIn**  
-https://www.linkedin.com/in/akash-wakade-08b8412b2/  
+https://www.linkedin.com/in/akash-wakade-08b8412b2/
 
 📧 **Email**  
-akashwakade7355@gmail.com  
+akashwakade7355@gmail.com
 
 ---
 
@@ -180,10 +167,3 @@ akashwakade7355@gmail.com
   ⭐ <strong>"Great developers are not born — they build, iterate, and improve every day."</strong>
 </p>
 
-
-<!--
-## 🎥 Live Preview
-
-<p align="center">
-  <img src="./images/OSW_1-demo.gif" width="100%" alt="Portfolio Demo"/>
-</p> -->
