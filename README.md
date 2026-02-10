@@ -32,7 +32,7 @@ This project showcases my skills, services, and projects in a clean and visually
 
 ## 📂 Project Structure
 
-osw_01/
+osw_01/<br>
 │
 ├── index.html<br><br>
 ├── style.css<br><br>
